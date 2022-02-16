@@ -1,6 +1,6 @@
-### Hi there 👋
+### 
 
-# While True: print("Welcome") <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px">
+# Hi there 👋 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px">
 
 
 
