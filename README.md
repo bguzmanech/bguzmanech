@@ -10,7 +10,7 @@
 
 <div width= "300px" height="300px" background = "red"></div>
  
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+<code> <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"></code>
 <code><img height="40" src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo.jpg"></code>
 <code><img height="40" src="https://dagope.com/public/uploads/2018/11/efcore.png"></code>
