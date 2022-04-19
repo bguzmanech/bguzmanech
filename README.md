@@ -4,7 +4,7 @@
 
 
 
-#### Contact Me <code><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>(https://www.linkedin.com/in/braianguzman/)
+#### Contact Me [<code><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>](https://www.linkedin.com/in/braianguzman/)
 #
 ### Languages and Tools
 
